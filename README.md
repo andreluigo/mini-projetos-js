@@ -1,5 +1,7 @@
 # Mini Projetos com javascript puro
 
+Projeto clonado de https://github.com/fernandoleonid/mini-projetos-js.git para fins de estudo.
+
 ## Objetivo
 Não tem outra maneira para se aprender além de **praticar, praticar e praticar**.
 
